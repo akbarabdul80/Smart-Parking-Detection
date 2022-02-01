@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393052057340",
+    "firebase_url": "https://smart-parking-detection-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-parking-detection",
+    "storage_bucket": "smart-parking-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393052057340:android:9cbfb0bd4a2a8448c37179",
+        "android_client_info": {
+          "package_name": "com.example.grid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393052057340-puci05ch89iqvsvcsmug43bb63me0eda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD--c3B3c-bzCEwTpiLyUfvGWvu11Fwtgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393052057340-puci05ch89iqvsvcsmug43bb63me0eda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

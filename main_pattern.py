@@ -43,10 +43,9 @@ def print_pattern(pattern_string):
                 # Empty
             else:
                 if tmp_list[0] in rows_empty or (tmp_list[0][0] - pixels_w, tmp_list[0][1]) in rows_empty:
-                    tmp_string += "C"
-                    print(tmp_string)
+                    tmp_string += "F"
                 else:
-                    tmp_string += "M"
+                    tmp_string += "P"
                 # Field
             position += 1
         else:
@@ -146,9 +145,9 @@ while True:
                 # Empty
             else:
                 if tmp_list[0] in rows_empty or (tmp_list[0][0] - pixels_w, tmp_list[0][1]) in rows_empty:
-                    tmp_string += "O"
+                    tmp_string += "F"
                 else:
-                    tmp_string += "M"
+                    tmp_string += "P"
                 # Field
             position += 1
         else:
